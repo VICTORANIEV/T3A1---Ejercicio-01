@@ -4,15 +4,16 @@
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes.
 
 # Etapa 02. Espesificaciones
-Entrada:
+1.- Entrada:
        - Estudiantes: Nombre, apellidos, grupo, carrera
        - Asignatura: calificaciones, nombre de las asignaturas
-Procesos:
+2.- Procesos:
        - Calcular el promedio de las calificaciones finales
        - promedio = sumaDeCalificaciones / totalDeCalificaciones
-Salida:
+3.- Salida:
        - Resumen de los datos del estudiante con su promedio
        
+~~~
 +----------------------------------------------------------------+
        - Estudiante: VICTOR ANIEV RIVERA ROANO
        - Grupo: 1A     carrera: INGERNIERIA INFORMATICA
@@ -22,4 +23,9 @@ Salida:
        - MATEMATICAS DISCRETAS            85
 +----------------------------------------------------------------+
        - Promedio:                        80
-       
+~~~
+
+##Etapa 3. Diseño de la solucion
+Diagrama de la clase
+
+
