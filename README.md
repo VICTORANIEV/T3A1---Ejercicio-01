@@ -25,7 +25,7 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
        - Promedio:                        80
 ~~~
 
-# Etapa 3. Diseño de la solucion
+# Etapa 03. Diseño de la solucion
 Diagrama de la clase
 
 
