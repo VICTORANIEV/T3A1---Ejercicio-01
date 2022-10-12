@@ -30,5 +30,5 @@ Diagrama de la clase
 ![](https://github.com/VICTORANIEV/T3A1---Ejercicio-01/blob/main/T3A1.png)
 
 # Etapa 04. Diseño de solucion
-  
+  https://github.com/VICTORANIEV/T3A1---Ejercicio-01/blob/main/T3A1.zip
 
